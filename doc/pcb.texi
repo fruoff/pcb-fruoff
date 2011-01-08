@@ -474,7 +474,7 @@ represents a physical layer on the printed circuit board.  If you want to make
 a four layer board, you'll need to have at least four layer groups.
 Connections between layer groups are established only through element pins and vias.
 The relationship between a specific layer and the board itself is configurable from
-the @samp{Edit layer groups} option in the @b{Settings} menu.
+the @samp{Preferences} option in the @b{File} menu.
 The layer groups corresponding to the physical layers: @emph{component-side}
 and @emph{solder-side} are always defined and you must map at least one
 logical layer to each, even if you plan to make a single-sided board.
